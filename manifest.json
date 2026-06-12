@@ -1,0 +1,10 @@
+{
+  "id": "sequential-timeline",
+  "name": "Sequential Timeline",
+  "version": "1.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "Render sequential timelines with vertical connectors using ```timeline blocks.",
+  "author": "Yonas Yanfa",
+  "authorUrl": "https://github.com/yonas",
+  "isDesktopOnly": false
+}
